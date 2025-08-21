@@ -2,7 +2,7 @@
 // Created by ratan on 19-08-2025.
 //
 
-#include "../RubiksCube.h"
+#include "RubiksCube.h"
 char RubiksCube::getColorLetter(COLOR color) {
     switch (color) {
         case COLOR::BLUE:
